@@ -108,7 +108,7 @@ POST /api/tasks
 ![Login Test](public/login-test.png)
 ![Admin View](public/admin-view.png)
 ![Admin Create Task](public/admin-create-task.png)
-![User Created by Admin](public/user-created-by-admin.png)
+![User Created by Admin](public/user-create-by-admin.png)
 ![Manager View](public/manager-view.png)
 ![Staff View](public/staff-view.png)
 ![Test Coverage](public/coverage.png)

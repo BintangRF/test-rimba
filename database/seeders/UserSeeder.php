@@ -55,7 +55,7 @@ class UserSeeder extends Seeder
                 'name' => 'Staff2 User',
                 'password' => Hash::make('password'),
                 'role' => 'staff',
-                'status' => true,
+                'status' => false,
             ]
         );
 
